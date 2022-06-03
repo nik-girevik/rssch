@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/nik-girevik/rsschool-cv/blob/f5fa3dcc0761a23be9afcabd85229daa0cc5758f/cv.md
